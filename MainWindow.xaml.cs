@@ -75,7 +75,9 @@ public partial class MainWindow : Window
         try
         {
             var host = uri.Host;
-            var port = uri.IsDefaultPort ? "(по умолчанию)" : uri.Port.ToString();
+            var port = uri.IsDefaultPort
+                ? $"{uri.Port} (по умолчанию для {uri.Scheme})"
+                : uri.Port.ToString();
             var path = string.IsNullOrWhiteSpace(uri.AbsolutePath) ? "/" : uri.AbsolutePath;
             var query = string.IsNullOrWhiteSpace(uri.Query) ? "(нет)" : uri.Query;
             var fragment = string.IsNullOrWhiteSpace(uri.Fragment) ? "(нет)" : uri.Fragment;

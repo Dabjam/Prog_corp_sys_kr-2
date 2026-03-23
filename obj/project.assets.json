@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Maken\\.nuget\\packages\\": {}
+    "C:\\Users\\edikf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maken\\Desktop\\Pprog_corp_sys_kr-2\\NetworkAnalyzerApp\\NetworkAnalyzerApp.csproj",
+      "projectUniqueName": "C:\\Users\\edikf\\OneDrive\\Рабочий стол\\korp\\Prog_corp_sys_kr-2\\NetworkAnalyzerApp.csproj",
       "projectName": "NetworkAnalyzerApp",
-      "projectPath": "C:\\Users\\Maken\\Desktop\\Pprog_corp_sys_kr-2\\NetworkAnalyzerApp\\NetworkAnalyzerApp.csproj",
-      "packagesPath": "C:\\Users\\Maken\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maken\\Desktop\\Pprog_corp_sys_kr-2\\NetworkAnalyzerApp\\obj\\",
+      "projectPath": "C:\\Users\\edikf\\OneDrive\\Рабочий стол\\korp\\Prog_corp_sys_kr-2\\NetworkAnalyzerApp.csproj",
+      "packagesPath": "C:\\Users\\edikf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edikf\\OneDrive\\Рабочий стол\\korp\\Prog_corp_sys_kr-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Maken\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\edikf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
@@ -43,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -59,6 +60,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -67,7 +86,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

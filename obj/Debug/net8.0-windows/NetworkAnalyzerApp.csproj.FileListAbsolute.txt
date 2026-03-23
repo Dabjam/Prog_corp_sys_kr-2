@@ -17,3 +17,23 @@ C:\Users\Maken\Desktop\Pprog_corp_sys_kr-2\NetworkAnalyzerApp\obj\Debug\net8.0-w
 C:\Users\Maken\Desktop\Pprog_corp_sys_kr-2\NetworkAnalyzerApp\obj\Debug\net8.0-windows\NetworkAnalyzerApp.pdb
 C:\Users\Maken\Desktop\Pprog_corp_sys_kr-2\NetworkAnalyzerApp\obj\Debug\net8.0-windows\NetworkAnalyzerApp.genruntimeconfig.cache
 C:\Users\Maken\Desktop\Pprog_corp_sys_kr-2\NetworkAnalyzerApp\obj\Debug\net8.0-windows\ref\NetworkAnalyzerApp.dll
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\bin\Debug\net8.0-windows\NetworkAnalyzerApp.exe
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\bin\Debug\net8.0-windows\NetworkAnalyzerApp.deps.json
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\bin\Debug\net8.0-windows\NetworkAnalyzerApp.runtimeconfig.json
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\bin\Debug\net8.0-windows\NetworkAnalyzerApp.dll
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\bin\Debug\net8.0-windows\NetworkAnalyzerApp.pdb
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp_MarkupCompile.cache
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.g.resources
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.AssemblyInfoInputs.cache
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.AssemblyInfo.cs
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.csproj.CoreCompileInputs.cache
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.sourcelink.json
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.dll
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\refint\NetworkAnalyzerApp.dll
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.pdb
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\NetworkAnalyzerApp.genruntimeconfig.cache
+C:\Users\edikf\OneDrive\Рабочий стол\korp\Prog_corp_sys_kr-2\obj\Debug\net8.0-windows\ref\NetworkAnalyzerApp.dll

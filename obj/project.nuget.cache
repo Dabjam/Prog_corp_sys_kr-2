@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "X4mX+q/y5A0=",
+  "dgSpecHash": "fb6l67zc428=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maken\\Desktop\\Pprog_corp_sys_kr-2\\NetworkAnalyzerApp\\NetworkAnalyzerApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\edikf\\OneDrive\\Рабочий стол\\korp\\Prog_corp_sys_kr-2\\NetworkAnalyzerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edikf\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\edikf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\edikf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\edikf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
